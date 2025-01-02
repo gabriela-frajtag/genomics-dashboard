@@ -22,7 +22,7 @@ An **enhanced** example of a genomics dashboard using **Streamlit**, featuring:
 - **Side panel** controls,
 - A structure ready for **real data** integrations.
 
-Currently, the data is **fictitious**, but you can easily swap in a real CSV file or any other data source.
+Currently, the data is **fictitious**, but soon it will be real data.
 """)
 
 # -----------------------------------------------------------------------------
@@ -156,9 +156,5 @@ st.markdown("""
    - Create **multiple** types of visualizations (bar charts, scatter timelines, box plots),
    - Expand your interactive genomics dashboard functionality.
 
-2. **Use real data**: Replace the fictitious dataset with a CSV or a connection to a remote database.
-3. Integrate **phylogenetic trees** or **maps** to delve deeper into genomic insights.
-4. Deploy your dashboard to [Streamlit Community Cloud](https://streamlit.io/cloud) to share it online easily.
-
-**Enjoy exploring your genomic data with these new features!**
+**Enjoy exploring some genomic data with these new features!**
 """)
